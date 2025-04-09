@@ -5,6 +5,7 @@ export function header() {
         { text: 'Food', href: '/food' },
         { text: 'Darzas', href: '/darzas' },
         { text: 'Header', href: '/header' },
+        { text: 'Click', href: '/click' },
     ];
 
     const lp = location.pathname;
